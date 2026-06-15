@@ -1,4 +1,4 @@
 # data-analysis-portfolio
-Hello, my name is Chrysostomos Koukoulis, I live in Greece,
-I have a Bsc in Computer Science and Biomedical Informatics
-and this repository will be my portfolio, filled with Data Analysis projects.
+Hello, my name is Chrysostomos Koukoulis, I live in Greece.
+I hold a BSc in Computer Science and Biomedical Informatics, and currently I am building my skills in Data Analysis.
+This repository,serves as my personal portfolio in my projects, which I will develop using SQL, Python and Visualization tools.
